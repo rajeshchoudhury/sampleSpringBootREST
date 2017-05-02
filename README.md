@@ -1,8 +1,6 @@
 Example Spring Boot REST Service
 ================================
 
-The article: [http://kielczewski.eu/2014/04/developing-restful-web-service-with-spring-boot/](http://kielczewski.eu/2014/04/developing-restful-web-service-with-spring-boot/)
-
 Requirements
 ------------
 * [Java Platform (JDK) 7](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
